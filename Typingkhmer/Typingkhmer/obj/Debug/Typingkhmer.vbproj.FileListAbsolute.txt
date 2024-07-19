@@ -1,0 +1,12 @@
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.vbprojAssemblyReference.cache
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.frmtyping.resources
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.Resources.resources
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.vbproj.GenerateResource.cache
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.vbproj.CoreCompileInputs.cache
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\bin\Debug\Typingkhmer.exe.config
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\bin\Debug\Typingkhmer.exe
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\bin\Debug\Typingkhmer.pdb
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\bin\Debug\Typingkhmer.xml
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.exe
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.xml
+D:\sovantha .vb\FormKhmer\Typingkhmer\Typingkhmer\obj\Debug\Typingkhmer.pdb
